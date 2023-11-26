@@ -24,7 +24,38 @@
 </div>
 </div>
   
+<style>
+  .container {
+    display: flex;
+    justify-content: center;
+  }
 
+  .container > div {
+    margin: 0 10px; 
+  }
+</style>
+
+<div class="container">
+
+  <div style="width: 48%;">
+    <h2>Div à Esquerda</h2>
+    <ul>
+      <li>Elemento 1</li>
+      <li>Elemento 2</li>
+      <li>Elemento 3</li>
+    </ul>
+  </div>
+
+  <div style="width: 48%;">
+    <h2>Div à Direita</h2>
+    <ul>
+      <li>Elemento A</li>
+      <li>Elemento B</li>
+      <li>Elemento C</li>
+    </ul>
+  </div>
+
+</div>
     
  <br>
 <div  align="center"> 

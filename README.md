@@ -57,7 +57,7 @@
 </div>
  
 
-  ![Snake animation](https://github.com/JaquelinePauxis/blob/output/github-contribution-grid-snake.svg) 
+  ![Snake animation](https://github.com/JaquelinePauxis/Jaquelinepauxis/blob/output/github-contribution-grid-snake.svg) 
     </div>
 
 

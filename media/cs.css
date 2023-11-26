@@ -1,8 +1,0 @@
- .container {
-    display: flex;
-    justify-content: center;
-  }
-
-  .container > div {
-    margin: 0 10px; /* Adicione margem entre as divs conforme necessário */
-  }

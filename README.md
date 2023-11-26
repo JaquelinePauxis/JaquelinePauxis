@@ -56,7 +56,7 @@
 </div> 
 </div>
  
-
+<div>
   ![Snake animation](https://github.com/JaquelinePauxis/Jaquelinepauxis/blob/output/github-contribution-grid-snake.svg) 
     </div>
 

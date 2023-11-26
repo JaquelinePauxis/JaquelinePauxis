@@ -57,9 +57,9 @@
 </div>
  
 
-  ![Snake animation](https://github.com/JaquelinePauxis/JaquelinePauxis/media/github-contribution-grid-snake.svg)
 
-</div>
+  ![Snake animation](https://github.com/SteffanySympson/SteffanySympson/blob/output/github-contribution-grid-snake.svg) 
+    </div>
 
 
 

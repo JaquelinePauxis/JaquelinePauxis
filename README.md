@@ -1,9 +1,8 @@
 ### Hi there 👋
 <h1> Eu sou a Jaqueline Pauxis </h1>
+
 <div>
-  <img align="center" width="340" height="200" src="https://discord.com/channels/934508470026244186/934511568106954853/1178361544992636958">
-  </div>
-<div>
+<img align="center" width="200" height="200" src="media/gifme.gif">
   <a href="https://github.com/JaquelinePauxis">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jaquelinepauxis&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelinepauxis&&layout=compact&hide=shell&theme=jolly"/>

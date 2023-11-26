@@ -1,5 +1,9 @@
 ### Hi there 👋
 <h1> Eu sou a Jaqueline Pauxis </h1>
+- 🔭 Atuando em fullStack
+- 
+- 🌱 Estudando Ruby
+- 😄 ela/dela
 
 <div>
 <img align="center" width="200" height="200" src="media/gifme.gif">
@@ -24,67 +28,39 @@
 </div>
 </div>
   
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-  }
 
-  .container > div {
-    margin: 0 10px; 
-  }
-</style>
+#  Contacte-me
 
-<div class="container">
+<div style="display: flex; justify-content: space-between;">
 
   <div style="width: 48%;">
-    <h2>Div à Esquerda</h2>
+    <h2>Aulas Particulares </h2> 
     <ul>
-      <li>Elemento 1</li>
-      <li>Elemento 2</li>
-      <li>Elemento 3</li>
-    </ul>
-  </div>
-
-  <div style="width: 48%;">
-    <h2>Div à Direita</h2>
-    <ul>
-      <li>Elemento A</li>
-      <li>Elemento B</li>
-      <li>Elemento C</li>
-    </ul>
-  </div>
-
-</div>
-    
- <br>
-<div  align="center"> 
-  
-  <hr>
-<div> 
-
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+     <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <br>
-  	
-   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <br>
- <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </ul>
+  </div>
+
+  <div style="width: 48%;">
+    <h2>Perfil Profissonal</h2>
+    <ul>
+   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </a> 
-  
+ </a>
+       <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    </ul>
+  </div>
+
+</div> 
 </div>
  
 
   ![Snake animation](https://github.com/SteffanySympson/SteffanySympson/blob/output/github-contribution-grid-snake.svg) 
     </div>
 
-- 🔭 Atualmente fullStack
-- 🌱 Estudando Ruby
-- 📫 contacte via e-mail: jaquelinevpauxis@gmail.com
-- 😄 ela/dela
+
 
 
 

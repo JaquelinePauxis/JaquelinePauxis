@@ -6,7 +6,7 @@
 - 😄 Pronome: ela/dela  
 
 <div>
-  <img align="center" width="200" height="200" src="media/gifme.gif">
+  
   <a href="https://github.com/JaquelinePauxis">
     <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=JaquelinePauxis&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelinePauxis&layout=compact&hide=shell&theme=jolly"/>
@@ -47,7 +47,7 @@
  
 
 
-  ![Snake animation](https://github.com/SteffanySympson/SteffanySympson/blob/output/github-contribution-grid-snake.svg) 
+
     </div>
 
 
